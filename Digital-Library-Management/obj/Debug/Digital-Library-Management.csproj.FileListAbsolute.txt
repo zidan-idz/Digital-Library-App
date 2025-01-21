@@ -1,0 +1,10 @@
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\bin\Debug\Digital-Library-Management.exe.config
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\bin\Debug\Digital-Library-Management.exe
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\bin\Debug\Digital-Library-Management.pdb
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\obj\Debug\Digital-Library-Management.csproj.AssemblyReference.cache
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\obj\Debug\Digital_Library_Management.Properties.Resources.resources
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\obj\Debug\Digital-Library-Management.csproj.GenerateResource.cache
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\obj\Debug\Digital-Library-Management.csproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\obj\Debug\Digital-Library-Management.exe
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\obj\Debug\Digital-Library-Management.pdb
+C:\Users\MyBook Hype AMD\source\repos\Digital-Library-Management\Digital-Library-Management\obj\Debug\Digital_Library_Management.Home.resources
